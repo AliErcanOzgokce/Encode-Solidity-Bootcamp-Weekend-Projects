@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Encode-Solidity-Bootcamp-Weekend-Projects/static/css/main.fd8d27ab.css",
+    "main.js": "/Encode-Solidity-Bootcamp-Weekend-Projects/static/js/main.4a2b496b.js",
+    "index.html": "/Encode-Solidity-Bootcamp-Weekend-Projects/index.html",
+    "main.fd8d27ab.css.map": "/Encode-Solidity-Bootcamp-Weekend-Projects/static/css/main.fd8d27ab.css.map",
+    "main.4a2b496b.js.map": "/Encode-Solidity-Bootcamp-Weekend-Projects/static/js/main.4a2b496b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8d27ab.css",
+    "static/js/main.4a2b496b.js"
+  ]
+}
